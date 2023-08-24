@@ -1,11 +1,12 @@
 ---
-title: ysyx-预学习阶段中遇到的问题分享
+title: 预学习阶段中遇到的问题分享
 date: 2023-04-13
 slug: note4ysyx-prestudy
+image: 
 tags: 
 - “一生一芯”计划
 categories:
-- note4study
+- note4ysyx
 ---
 
 > 早在 22 年 7 月就已经参加一生一芯第四期的学习，奈何后面准备考研，便临时中断...  
