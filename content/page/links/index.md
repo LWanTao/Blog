@@ -4,7 +4,7 @@ links:
   - title: 安同开源社区
     description: 安同开源社区 (AOSC) 是一个以“完全自愿”为原则而运转的社区，社区成员们共同维护与发展着名为“AOSC OS”的一款通用 Linux 发行版。
     website: https://aosc.io
-    image: https://raw.githubusercontent.com/AOSC-Dev/LOGO/142463799f1c245fdd05e5cf29d11271f95492ec/aosc.svg
+    image: https://avatars.githubusercontent.com/u/6059785?s=200&v=4
   - title: EE-Wiki
     description: EE-Wiki 致力于成为一个免费开放且持续更新的电子行业相关知识整合站点，从模电数电基础知识，到FPGA开发、嵌入式开发,再到电赛、智能车赛等…
     website: https://ee-wiki.tidalforce.cn/
