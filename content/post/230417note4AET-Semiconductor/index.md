@@ -38,5 +38,6 @@ categories:
 ---
 
 > **参考资料:**  
-> 1. [《电子技术基础模拟部分（第六版）》- 康华光](https://book.douban.com/subject/31158898/)  
+>
+> 1. [《电子技术基础模拟部分（第六版）》- 康华光](https://book.douban.com/subject/31158898/)
 > 2. [《模拟电子技术基础（第五版）》- 童诗白](https://book.douban.com/subject/26973602/)
