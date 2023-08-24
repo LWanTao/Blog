@@ -14,3 +14,19 @@ url = "https://github.com/LWanTao"
 
 [social.params]
 icon = "brand-github"
+
+[[social]]
+identifier = "linkedin"
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/lwantao/"
+
+[social.params]
+icon = "brand-linkedin"
+
+[[social]]
+identifier = "Email"
+name = "Email"
+url = "/contacts/"
+
+[social.params]
+icon = "mail"
