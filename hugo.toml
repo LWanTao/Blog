@@ -1,6 +1,7 @@
 baseURL = 'http://blog.vantao.cn'
 languageCode = 'zh-cn'
 title = 'LWanTao 的博客'
+googleAnalytics = 'G-7LWD2ML2P6'
 
 [[module.imports]]
 path = "github.com/CaiJimmy/hugo-theme-stack/v3"
