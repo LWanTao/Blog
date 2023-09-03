@@ -5,6 +5,6 @@ image: https://ysyx.oscc.cc/res/images/project/project-intro-goal.png
 
 # Badge style
 style:
-    background: "#2a9d8f"
+    background: "#184884"
     color: "#fff"
 ---
