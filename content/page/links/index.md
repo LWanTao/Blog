@@ -6,8 +6,8 @@ links:
     website: https://aosc.io
     image: https://avatars.githubusercontent.com/u/6059785?s=200&v=4
   - title: EE-Wiki
-    description: EE-Wiki 致力于成为一个免费开放且持续更新的电子行业相关知识整合站点，从模电数电基础知识，到FPGA开发、嵌入式开发,再到电赛、智能车赛等…
-    website: https://ee-wiki.tidalforce.cn/
+    description: EE-Wiki 致力于成为一个免费开放且持续更新的电子行业相关知识整合站点，从模电数电基础知识，到 FPGA 开发、嵌入式开发,再到电赛、智能车赛等…
+    website: https://ee-wiki.tidalforce.cn
     image: https://avatars.githubusercontent.com/t/7850611?s=116&v=4
 menu:
     main: 
